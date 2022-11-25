@@ -1,0 +1,15 @@
+F:\Example\Exampl\EXX\bin\Debug\net6.0\EXX.exe
+F:\Example\Exampl\EXX\bin\Debug\net6.0\EXX.deps.json
+F:\Example\Exampl\EXX\bin\Debug\net6.0\EXX.runtimeconfig.json
+F:\Example\Exampl\EXX\bin\Debug\net6.0\EXX.dll
+F:\Example\Exampl\EXX\bin\Debug\net6.0\EXX.pdb
+F:\Example\Exampl\EXX\obj\Debug\net6.0\EXX.csproj.AssemblyReference.cache
+F:\Example\Exampl\EXX\obj\Debug\net6.0\EXX.GeneratedMSBuildEditorConfig.editorconfig
+F:\Example\Exampl\EXX\obj\Debug\net6.0\EXX.AssemblyInfoInputs.cache
+F:\Example\Exampl\EXX\obj\Debug\net6.0\EXX.AssemblyInfo.cs
+F:\Example\Exampl\EXX\obj\Debug\net6.0\EXX.csproj.CoreCompileInputs.cache
+F:\Example\Exampl\EXX\obj\Debug\net6.0\EXX.dll
+F:\Example\Exampl\EXX\obj\Debug\net6.0\refint\EXX.dll
+F:\Example\Exampl\EXX\obj\Debug\net6.0\EXX.pdb
+F:\Example\Exampl\EXX\obj\Debug\net6.0\EXX.genruntimeconfig.cache
+F:\Example\Exampl\EXX\obj\Debug\net6.0\ref\EXX.dll
